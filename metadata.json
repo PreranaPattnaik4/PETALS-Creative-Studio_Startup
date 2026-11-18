@@ -1,0 +1,8 @@
+{
+  "name": "PETALS Studio",
+  "description": "Premium Fantasy Storytelling, Illustration & Animation Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
